@@ -3,9 +3,6 @@
 [![Model](https://img.shields.io/badge/Model-Trained-yellow)](https://github.com/Copng-py/bookish-barnacle/blob/main/model.pth)
 
 This repository contains a PyTorch implementation of a Convolutional Neural Network (CNN) model for classifying MNIST handwritten digits.
-<p align="center">
-  <img src="![image](https://github.com/user-attachments/assets/ebe2770c-8089-4938-ae9e-f08215c8fe11)" width="500" height="500">
-</p>
 
 ### Model Architecture
 > This CNN model is a custom architecture for side-project purposes with image classification tasks. It is designed to be straightforward and efficient, providing a good balance between performance and computational cost, especially for tasks involving less complex images or smaller datasets.
