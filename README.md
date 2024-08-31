@@ -15,6 +15,7 @@ The CNN model used in this project consists of the following layers:
 - **Convolutional Layer 3**: 16 filters, 1x1 kernel size, ReLU activation
 - **Fully Connected Layer 1**: 64 units, ReLU activation
 - **Fully Connected Layer 2 (Output)**: 10 units (corresponding to 10 digit classes)
+![cnn_model_architecture](https://github.com/user-attachments/assets/b228b34e-5a68-4294-9190-5903b4a7c7ae)
 
 
 
@@ -37,6 +38,8 @@ The train_model() function is responsible for training the CNN model. It include
 ### Learning Rate and Model Performance
 - **Learning Rate:** The initial learning rate is set to 0.001, and the MultiStepLR scheduler is used to reduce the learning rate during training.
 - **Model Performance:** The final test accuracy achieved by the model is 99.17%.
+  ![ performance_chart](https://github.com/user-attachments/assets/a92679ad-7a57-4846-953f-3d74918edadc)
+
 
 ### Comparison with Famous CNN Architectures
 + **VGGNet:**
