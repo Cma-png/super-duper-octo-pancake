@@ -4,7 +4,7 @@
 
 This repository contains a PyTorch implementation of a Convolutional Neural Network (CNN) model for classifying MNIST handwritten digits.
 <p align="center">
-  <img src="https://github.com/Copng-py/bookish-barnacle/assets/146678457/c0fafdb2-53d4-442a-b65d-9eaaab76a7fb" width="500" height="500">
+  <img src="![image](https://github.com/user-attachments/assets/ebe2770c-8089-4938-ae9e-f08215c8fe11)" width="500" height="500">
 </p>
 
 ### Model Architecture
